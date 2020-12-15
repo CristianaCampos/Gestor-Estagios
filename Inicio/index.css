@@ -1,0 +1,61 @@
+body {
+    font-family: Questrial;
+}
+
+.thumbnail:hover {
+    width: 27px;
+}
+
+.thumbnail2:hover {
+    width: 23px;
+}
+
+table.table-bordered {
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+table.table-bordered>thead>tr>th {
+    border: 1px solid black;
+}
+
+table.table-bordered>tbody>tr>td {
+    border: 1px solid black;
+}
+
+.form-control {
+    padding-right: 40px;
+    font-size: 16px;
+}
+
+h5 {
+    font-family: Mali;
+}
+
+.drop:hover {
+    color: #0174DF;
+}
+
+hr {
+    background-color: black;
+}
+
+.criarConta {
+    color: black;
+    text-align: center;
+}
+
+.criarConta:hover {
+    color: #585858;
+}
+
+nav {
+    box-shadow: 0px 1px 0px 0px black;
+    background-color: #E6E6FA;
+    /* color: white; */
+}
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
